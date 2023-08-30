@@ -3,7 +3,7 @@
 /**
  * binary_tree_postorder - postorder traversal
  * @tree: points to tree root node
- * @func: points to function tooutput node 
+ * @func: points to function tooutput node
 */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
 {
